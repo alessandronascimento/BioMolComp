@@ -1,1 +1,9 @@
-Prática 01
+# Prática 01 
+
+Nesta prática, três experimentos são propostos.
+
+No primeiro experimento, cromatogramas resultantes de sequenciamento gênicos são analisados com os programas Snap Gene Viewer. 
+
+No segundo experimento, sequências biológicas são escritas em diferentes formatos e inter-convertidas usando a biblioteca BioPython.
+
+No terceiro experimento (opcional), um cromatograma é representado graficamente no BioPython.
